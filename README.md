@@ -1,16 +1,8 @@
 # flutter_application_3
 
-A new Flutter project.
+I made a todo app with Add, Delete, Done and Search
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App](https://user-images.githubusercontent.com/96003255/218255703-1e2a5e62-4393-4add-9cf4-eaa9013d9dbe.PNG)
+![App2](https://user-images.githubusercontent.com/96003255/218255706-9db7e00b-677f-49c1-899b-7038b49a57d4.PNG)
+![App3](https://user-images.githubusercontent.com/96003255/218255707-5421d28e-bf67-4ccf-995a-b83c7ff2cfa2.PNG)
