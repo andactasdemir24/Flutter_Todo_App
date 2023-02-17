@@ -1,4 +1,4 @@
-# flutter_application_3
+# flutter_application TODO App
 
 I made a todo app with Add, Delete, Done and Search
 
